@@ -1,4 +1,4 @@
-### ACMS60890_SP25_Final_Project — Data-Driven Energy Forecasting for Smart Homes
+### ACMS60890_SP25_Final_Project — Data-Driven Energy Demand Forecasting for Smart Homes
 #### This project explores a data-driven framework for forecasting appliance-level energy usage in smart homes using sensor and environmental data.
 #### Two modeling approaches are developed:
 #### - White-box models based on interpretable physical features
